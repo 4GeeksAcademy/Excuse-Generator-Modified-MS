@@ -1,1 +1,20 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-color: rgb(159, 180, 174);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 32px;
+  height: 100vh;
+}
+
+.container {
+  background: whitesmoke;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+#excuse {
+  text-decoration: underline;
+}
